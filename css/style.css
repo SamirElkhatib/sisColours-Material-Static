@@ -1,6 +1,42 @@
+/*
 .myCustomClass{
     background-color: blue;
     color: white;
     float: left;
     padding: 7px;
 }
+
+.header{
+    width=100%;
+    background-color: gray;
+    color:beige;
+    height: 10%;
+    text-align: center;
+}
+.footer{
+    width=100%;
+    background-color: gray;
+    color:beige;
+    height=25%;
+    text-align: center;
+}
+
+#wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+#leftcolumn, #rightcolumn {
+    border: 0%;
+    float: left;
+    height: 125%;
+    margin:0%;
+}
+#leftcolumn {
+    width: 33%;
+    background-color: skyblue;
+}
+#rightcolumn {
+    width: 67%;
+    background-color: beige;
+}
+*/
